@@ -12,6 +12,7 @@ public class GitStudy2Application {
         System.out.println("");
         System.out.println("a");
         System.out.println("b");
+        System.out.println("c");
         SpringApplication.run(GitStudy2Application.class, args);
 
     }
